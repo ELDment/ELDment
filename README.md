@@ -1,3 +1,3 @@
 ### 👋 HELLO，THERE'S ELDment! 👋 | ⚡ A Trash Code Maker. ⚡
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_title=true" />
+![ELDment GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)
+![image](https://github.com/ELDment/ELDment/blob/main/BackGround.png)
