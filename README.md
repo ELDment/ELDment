@@ -8,21 +8,34 @@
 
 <img align="right" src="https://count.getloli.com/get/@ELDment?theme=rule34" />
 
-- 🌮 You can call me ELDment or 利世 freely.
+- **🌮 You can call me ELDment or 利世 freely.**
 - 🔭 I am a current student, online time is uncertain.
-- 😄 I'm currently learning:
-  - [ ] C++, CounterStrikeSDK
-  - [x] C# (CSharp)
-  - [ ] Redis, etcd, Nacos....
-  - [ ] Golang, Rust
-  - [x] Python
-  - [ ] Vue.js, React
-- 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
+- 👀 I'm interested in ...
+  - [x] **[cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src)、[source2sdk](https://github.com/neverlosecc/source2sdk) ...**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=vue">
+  <img align="right" height="130px" src="">
+</picture>
+
+- 🏔️ I'm currently learning:
+  - [ ] C、C++、CSharp
+  - [ ] Rust💪
+  - [x] **Python、PHP**
+  - [ ] Vue.js、React **...**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=vue">
+  <img align="right" height="130px" src="">
+</picture>
+
+- 🔥 I am just an amateur enthusiast in the field of coding.
+- 🍰 **Hoping that one day I can be an excellent coder!**
 - 💬 I can speak Chinese, English and a little bit Japanese.
-- 📫 You can contact me via **Email**(eldment@outlook.com).
-
-
-<img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=balck&color=black" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=balck&color=black" />
+- 📫 Contact me via **Email**(eldment@outlook.com).
+- > 🏹 ***"Every cloud has a silver lining."***
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake-dark.svg">
