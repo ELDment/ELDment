@@ -21,4 +21,11 @@
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Email**(eldment@outlook.com).
 
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=balck&color=black" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=balck&color=black" />
+
+<img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=balck&color=black" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=balck&color=black" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake.svg">
+  <img align="" height="170px" src="">
+</picture>
