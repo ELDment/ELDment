@@ -1,7 +1,7 @@
 name: GenerateSnake
 on:
   schedule:
-    - cron: '0 0,6,12,18 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
   
 jobs:
@@ -24,13 +24,3 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          author_name: ELDment
-          author_email: ELDment@outlook.com
-          message: '🎠 Generate Snake' 
