@@ -6,7 +6,7 @@
   </b></p>
 </div>
 
-<img align="right" height="110px" src="https://count.getloli.com/get/@ELDment?theme=rule34">
+<img align="right" height="100px" src="https://count.getloli.com/get/@ELDment?theme=rule34">
 
 - **🌮 You can call me ELDment or 利世 freely.**
 - 🔭 I am a current student, online time is uncertain.
