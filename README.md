@@ -6,7 +6,7 @@
   </b></p>
 </div>
 
-<img align="right" src="https://count.getloli.com/get/@ELDment?theme=rule34" />
+<img align="right" height="110px" src="https://count.getloli.com/get/@ELDment?theme=rule34">
 
 - **🌮 You can call me ELDment or 利世 freely.**
 - 🔭 I am a current student, online time is uncertain.
@@ -37,8 +37,10 @@
 - 📫 Contact me via **Email**(eldment@outlook.com).
 - > 🏹 ***"Every cloud has a silver lining."***
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake.svg">
-  <img align="" height="170px" src="">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake.svg">
+    <img height="170px" src="">
+  </picture>
+</div>
