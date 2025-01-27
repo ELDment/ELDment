@@ -2,13 +2,13 @@
   <h1>🎉 W E L C O M E &nbsp&nbsp | &nbsp&nbsp 欢 迎 🎉</h1>
   <p><b>
     这里是 <a href = "https://github.com/ELDment">ELDment</a> 🎃 一位垃圾代码工程师<br>
-    ♻️ 2024 ©️ ELDment ♻️
+    ♻️ 2025 ©️ ELDment ♻️
   </b></p>
 </div>
 
 <img align="right" height="100px" src="https://count.getloli.com/get/@ELDment?theme=rule34">
 
-- **🌮 You can call me ELDment or 利世 freely.**
+- **🌮 You can call me ELDment, Ambr0se or 利世 freely.**
 - 🔭 I am a current student, online time is uncertain.
 - 👀 I'm interested in ...
   - [x] **[cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src)、[source2sdk](https://github.com/neverlosecc/source2sdk) ...**
