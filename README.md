@@ -8,10 +8,10 @@
 
 <img align="right" height="100px" src="https://count.getloli.com/get/@ELDment?theme=rule34">
 
-- **🌮 You can call me ELDment, Ambr0se or 利世 freely.**
-- 🔭 I am a current student, online time is uncertain.
-- 👀 I'm interested in ...
-  - [x] **[cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src)、[source2sdk](https://github.com/neverlosecc/source2sdk) ...**
+- 🌮 You can call me `ELDment`, `Ambr0se` or `利世` freely
+- 🔥 Interests
+  - Japanese ACG Culture (Anime/Manga/Games)
+  - Photography (Landscape & Daily Life)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=dark">
@@ -19,11 +19,11 @@
   <img align="right" height="130px" src="">
 </picture>
 
-- 🏔️ I'm currently learning:
-  - [ ] C、C++、CSharp
-  - [ ] Rust💪
-  - [x] **Python、PHP**
-  - [ ] Vue.js、React **...**
+- 🏔️ Currently learning
+  - [ ] C, C++, C#
+  - [ ] Java 💪
+  - [x] **Python, PHP**
+  - [ ] Vue.js, React **etc.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=dark">
@@ -31,11 +31,10 @@
   <img align="right" height="130px" src="">
 </picture>
 
-- 🔥 I am just an amateur enthusiast in the field of coding.
-- 🍰 **Hoping that one day I can be an excellent coder!**
-- 💬 I can speak Chinese, English and a little bit Japanese.
-- 📫 Contact me via **Email**(eldment@outlook.com).
 - > 🏹 ***"Every cloud has a silver lining."***
+- 🍰 **Goal:** To evolve into an exceptional coder
+- 💬 **Languages:** Chinese (Native) | English (Fluent) | 日本語 (Basic)
+- 📫 **Contact:** [eldment@outlook.com](mailto:eldment@outlook.com) | [ambr0se@qq.com](mailto:ambr0se@qq.com)
 
 <div align="center">
   <picture>
