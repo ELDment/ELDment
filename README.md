@@ -34,7 +34,8 @@
 - > 🏹 ***"Every cloud has a silver lining."***
 - 🍰 **Goal:** To evolve into an exceptional coder
 - 💬 **Languages:** Chinese (Native) | English (Fluent) | 日本語 (Basic)
-- 📫 **Contact:** [eldment@outlook.com](mailto:eldment@outlook.com) | [ambr0se@qq.com](mailto:ambr0se@qq.com)
+- 📫 **Contact**
+  - [eldment@outlook.com](mailto:eldment@outlook.com) | [ambr0se@qq.com](mailto:ambr0se@qq.com)
 
 <div align="center">
   <picture>
