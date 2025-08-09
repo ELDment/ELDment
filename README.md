@@ -8,7 +8,7 @@
 
 <img align="right" height="100px" src="https://count.getloli.com/get/@ELDment?theme=rule34">
 
-- 🌮 You can call me `ELDment`, `Ambr0se` or `利世` freely
+- 🌮 You can call me <mark>**ELDment**</mark>, <mark>**Ambr0se**</mark> or <mark>**利世**</mark> freely
 - 🔥 Interests
   - Japanese ACG Culture (Anime/Manga/Games)
   - Photography (Landscape & Daily Life)
@@ -31,7 +31,7 @@
   <img align="right" height="130px" src="">
 </picture>
 
-- > 🏹 ***"Every cloud has a silver lining."***
+- > 🏹 <mark>***"Every cloud has a silver lining."***</mark>
 - 🍰 **Goal:** To evolve into an exceptional coder
 - 💬 **Languages:** 中文 (Native) | English (Fluent) | 日本語 (Basic)
 - 📫 **Contact:**
