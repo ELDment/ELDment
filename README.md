@@ -14,8 +14,8 @@
   - Photography (Landscape & Daily Life)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&hide_title=true&locale=en&theme=vue">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=true&locale=en&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=true&locale=en&theme=buefy&hide_border=true">
   <img align="right" height="130px" src="">
 </picture>
 
@@ -26,8 +26,8 @@
   - [ ] Vue.js, React **etc.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=cn&theme=vue">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=en&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=en&theme=buefy&hide_border=true">
   <img align="right" height="130px" src="">
 </picture>
 
