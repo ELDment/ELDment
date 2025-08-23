@@ -1,5 +1,11 @@
 <div align="center">
-  <h1>🎉 W E L C O M E &nbsp&nbsp | &nbsp&nbsp 欢 迎 🎉</h1>
+  <img src="https://readme-typing-svg.demolab.com/?font=LXGW+WenKai+TC&size=34&pause=400&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%8E%89%20W%20E%20L%20C%20O%20M%20E%20%20%20%20|%20%20%20%20%E6%AC%A2%20%E8%BF%8E%20%F0%9F%8E%89">
+  <hr>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ELDment&theme=github-dark&hide_border=true&area=true&custom_title=Activity%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ELDment&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph">
+    <img height="100%" src="">
+  </picture>
   <p><b>
     这里是 <a href = "https://github.com/ELDment">ELDment</a> 🎃 一位正在学习C++的屑<br>
     ♻️ 2025 ©️ ELDment ♻️
@@ -41,6 +47,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ELDment/ELDment/main/dist/github-snake.svg">
-    <img height="170px" src="">
+    <img height="100%" src="">
   </picture>
 </div>
