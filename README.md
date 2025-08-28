@@ -20,8 +20,8 @@
   - Photography (Landscape & Daily Life)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=true&locale=en&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=true&locale=en&theme=buefy&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=false&locale=en&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=false&locale=en&theme=buefy&hide_border=true">
   <img align="right" height="130px" src="">
 </picture>
 
