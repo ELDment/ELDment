@@ -7,7 +7,7 @@
     <img height="100%" src="">
   </picture>
   <p><b>
-    这里是 <a href = "https://github.com/ELDment">ELDment</a> 🎃 一位正在学习C++的屑<br>
+    这里是 <a href = "https://github.com/ELDment">ELDment</a> 🎃 正在学习C++<br>
     ♻️ 2025 ©️ ELDment ♻️
   </b></p>
 </div>
