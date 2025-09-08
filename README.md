@@ -7,7 +7,7 @@
     <img height="100%" src="">
   </picture>
   <p><b>
-    这里是 <a href = "https://github.com/ELDment">ELDment</a> 🎃 一位十分不入流的程序员<br>
+    这里是程序员（？） <a href = "https://github.com/ELDment">ELDment</a> 🎃 编程不入门「上手（じょうず）」<br>
     ♻️ 2025 ©️ ELDment ♻️
   </b></p>
 </div>
