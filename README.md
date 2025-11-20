@@ -32,8 +32,8 @@
   - [ ] Vue.js, React **etc.**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=en&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=en&theme=buefy&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=en&theme=dark&hide_border=true&hide=sourcepawn,cmake,xmake">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELDment&layout=compact&hide_title=false&locale=en&theme=buefy&hide_border=true&hide=sourcepawn,cmake,xmake">
   <img align="right" height="130px" src="">
 </picture>
 
