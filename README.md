@@ -7,7 +7,7 @@
       <img src="https://count.getloli.com/get/@ELDment?theme=rule34">
     </div>
     <div>
-      <span>🌮 You can call me <mark><strong>ELDment</strong></mark>, <mark><strong>Ambr0se</strong></mark> or <mark><strong>利世</strong></mark> freely</span><br>
+      <span>🌮 Feel free to call me <mark><strong>&nbspELDment&nbsp</strong></mark>, <mark><strong>&nbspAmbr0se&nbsp</strong></mark>, <mark><strong>&nbsp宇宙猫&nbsp</strong></mark>, <mark><strong>&nbsp菠蘿包&nbsp</strong></mark> or <mark><strong>&nbsp利世りぜ&nbsp</strong></mark></span><br>
       <span>💬 中文 (Native) | English (Fluent) | 日本語 (Basic)</span><br>
       <span>📫 <a href="mailto:eldment@outlook.com">eldment@outlook.com</a> | <a href="mailto:ambr0se@qq.com">ambr0se@qq.com</span></a><br>
       <span>🏹 <em><strong>えぇ... うそ...!? 書いたコードがまたエラー出しちゃったよ...</strong></em></span>
