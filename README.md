@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=LXGW+WenKai+TC&size=26&pause=500&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD!+|+Hi+there!+|+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;%F0%9F%9A%80+%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85+|+Open+Source+Contributor+|+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E8%B2%A2%E7%8C%AE%E8%80%85">
+  <img src="https://readme-typing-svg.demolab.com/?font=LXGW+WenKai+TC&size=26&pause=500&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%81+|+Hi+there!+|+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;%F0%9F%9A%80+%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85+|+Open+Source+Contributor+|+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E8%B2%A2%E7%8C%AE%E8%80%85">
 
   <hr>
+
   <div style="display: flex; justify-content: space-between;">
     <div>
       <img src="https://count.getloli.com/get/@ELDment?theme=rule34">
