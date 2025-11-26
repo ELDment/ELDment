@@ -32,8 +32,8 @@
       </td>
       <td width="35%">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=false&locale=en&theme=dark&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=false&locale=en&theme=buefy&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=false&locale=en&theme=dark&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=ELDment&show_icons=true&include_all_commits=false&locale=en&theme=buefy&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
           <img width="100%" src="">
         </picture>
       </td>
