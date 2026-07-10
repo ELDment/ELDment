@@ -5,7 +5,7 @@
 
   <div style="display: flex; justify-content: space-between;">
     <div>
-      <img src="https://count.getloli.com/get/@ELDment?theme=rule34">
+      <img src="https://count.getloli.com/get/@ELDment?theme=asoul&align=center&scale=1&darkmode=auto">
     </div>
     <div>
       <span>🌮 Feel free to call me <mark><strong>&nbspELDment&nbsp</strong></mark>, <mark><strong>&nbspAmbr0se&nbsp</strong></mark>, <mark><strong>&nbsp宇宙猫&nbsp</strong></mark>, <mark><strong>&nbsp菠蘿包&nbsp</strong></mark> or <mark><strong>&nbsp利世りぜ&nbsp</strong></mark></span><br>
